@@ -61,10 +61,3 @@ learn more about `Variadic Functions` via [`Variadic Functions in c`](https://ww
 > How to use `printf()` properly
 
 > Pointers
-
----
-## Contact Me
-
-* [Twitter][_1]
-
-[_1]: https://twitter.com/amait0u
